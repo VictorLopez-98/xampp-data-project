@@ -50,3 +50,10 @@ Open your terminal or command prompt and run:
 
 ```bash
 mysql -u [username] -p [database_name] < Project_6.sql
+
+## Entity-Relationship Diagram
+
+Below is the Entity-Relationship (E/R) diagram representing the database structure. It illustrates the relationships between the main tables and how data is organized.
+
+![E/R Diagram](docs/ER_Diagram.png)
+
