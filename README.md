@@ -32,4 +32,4 @@ The `Project_6.sql` file includes:
 
 ## Entity-Relationship Diagram
 
-![ER Diagram](https://github.com/VictorLopez-98/xampp-data-project/raw/main/docs/ER_Diagram.png)
+
