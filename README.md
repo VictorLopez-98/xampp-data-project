@@ -48,7 +48,6 @@ To work with this database, you need to import the SQL file into your MySQL serv
 
 Open your terminal or command prompt and run:
 
-```bash
 mysql -u [username] -p [database_name] < Project_6.sql
 
 ## Entity-Relationship Diagram
