@@ -30,29 +30,6 @@ The `Project_6.sql` file includes:
 
 ---
 
-## Usage Instructions
-
-### Importing the Database
-
-To work with this database, you need to import the SQL file into your MySQL server. You can do this via the phpMyAdmin graphical interface or the MySQL command line tool.
-
-#### Using phpMyAdmin
-
-1. Log into your phpMyAdmin panel (usually via `http://localhost/phpmyadmin` if using XAMPP locally).
-2. Create a new database, e.g., `project6_db`.
-3. Select the new database, click the **Import** tab.
-4. Choose the `Project_6.sql` file and start the import process.
-5. Once imported, you can browse tables and run queries within phpMyAdmin.
-
-#### Using MySQL Command Line
-
-Open your terminal or command prompt and run:
-
-mysql -u [username] -p [database_name] < Project_6.sql
-
 ## Entity-Relationship Diagram
 
-Below is the Entity-Relationship (E/R) diagram representing the database structure. It illustrates the relationships between the main tables and how data is organized.
-
-![E/R Diagram](docs/ER_Diagram.png)
-
+![ER Diagram](docs/ER_Diagram.png)
